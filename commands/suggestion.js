@@ -31,7 +31,7 @@ module.exports = {
             .setColor('#00FFFF')
             .setAuthor('Edita Aê!• Store', 'https://i.ibb.co/gdWfTSx/logo.png')
             .setThumbnail('https://i.ibb.co/gdWfTSx/logo.png')
-            .addField(`Veja sobre sua Sugestão no Canal`, `<#775857044116865034>`)
+            .addField(`Veja sobre sua Sugestão no Canal`, `<#776013841246322708>`)
             .setFooter('Edita Aê!• Store | Todos os direitos reservados', 'https://i.ibb.co/gdWfTSx/logo.png')
             .setTimestamp()
             )
