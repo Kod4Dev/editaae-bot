@@ -36,18 +36,7 @@ bot.on("ready", function() {
       }), 5000); // WATCHING, LISTEN, PLAYING, STREAMING //
       
       // LOGS //
-      console.log(`Sistema de Termo Carregado`)
-      console.log(`Sistema de Sugestão carregado`)
-      console.log(`Sistema de Parceria carregado`)
-      console.log(`Sistema de Convite carregado`)
-      console.log(`Sistema de HELP-BR carregado`)
-      console.log(`Sistema de HELP-US carregado`)
-      console.log(`Sistema de Regras carregado`)
-      console.log(`Sistema de Sistemas carregado`)
-      console.log(`Sistema de Feedback carregado`)
-      console.log(`Sistema de Bots / Sites / Discord Realizados carregado`)
-      console.log(`Sistema de Boost carregado`)
-      console.log(`Sistema de Apresentação carregado`)
+      const sobre = require(`./commands/sobre`)
       console.log(`O Bot está 100% Online`)
 });
 

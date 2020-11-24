@@ -20,3 +20,5 @@ module.exports = {
         message.reply(apresentation)
     },
 };
+
+console.log(`Comando Sobre está 100% Carregado`)
